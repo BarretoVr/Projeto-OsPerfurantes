@@ -22,7 +22,10 @@
         max-width: 570px;
     }
 
-
+    .listagem .logo{
+        display: none;
+    }
+    
     .listagem .pokedev{
         width: 45%;
         border-top-left-radius: 0;
@@ -30,9 +33,6 @@
         margin-bottom: 10px;
         border-radius: 8px;
     }
-
-    .listagem .logo{
-        display: none;
 
     
     .listagem ul{
